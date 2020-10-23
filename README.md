@@ -8,7 +8,7 @@ My PC/Laptop Spec:-
 Processor 	: Intel(R) Core(TM) i3-5005U CPU @ 2.00 GHz  2.00 GHz
 RAM 		: 4 GB
 V-RAM 		: 512 MB (256 MB works fine too)
-# of Cores	: 2 (4 Logical Threads)
+of Cores	: 2 (4 Logical Threads)
 System Type 	: 64-bit
 
 Windows Installed : Windows 10 Pro Version - 2004 (With Latest Updates)
