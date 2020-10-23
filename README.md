@@ -13,10 +13,11 @@ System Type 	: 64-bit
 
 Windows Installed : Windows 10 Pro Version - 2004 (With Latest Updates)
 
-Expectation from Your Low end Intel PC/Laptop : 1. Your PC/Laptop should be comparatively like mine or higher.
-						2. Windows Fully Updated.
-						3. Genshin Impact Downloaded and Installed and Launched atleast Once.
-						4. Must have a Genshin Impact account created from your browser.
+Expectation from Your Low end Intel PC/Laptop : 
+  1. Your PC/Laptop should be comparatively like mine or higher.
+  2. Windows Fully Updated.
+  3. Genshin Impact Downloaded and Installed and Launched atleast Once.
+  4. Must have a Genshin Impact account created from your browser.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
