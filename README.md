@@ -43,7 +43,7 @@ Instructions for Intel HD Crash FIX or Low end PC/ Laptop crash Fix :
 
 9. After the cutscenes are done and you're inside game. Press ESC from keyboard and Navigate to Settings in-game. Change Language to English as shown in Video.
 
-10. Install Cloudflare_WARP_Release-x64.msi and then launch it, after that you see a cloudflare icon on the buttom right side > click that and then Click the "Connect" Button to decrease ingame PING
+10. Download/Install https://1.1.1.1/Cloudflare_WARP_Release-x64.msi and then launch it, after that you see a cloudflare icon on the buttom right side > click that and then Click the "Connect" Button to decrease Ingame PING
 
 10. HAPPY PLAYING! There's nothing more to do.
 
