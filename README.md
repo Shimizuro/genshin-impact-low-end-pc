@@ -44,8 +44,8 @@ Instructions for Intel HD Crash FIX or Low end PC/ Laptop crash Fix :
 9. After the cutscenes are done and you're inside game. Press ESC from keyboard and Navigate to Settings in-game. Change Language to English as shown in Video.
 
 10. To decrease the High Latency/Ping Ingame, Download and install the following and then Launch it. Make sure its enabled/connected.
--Spybot Anti Bacon https://www.safer-networking.org/products/spybot-anti-beacon/download/ 
--CloudFlare 1.1.1.1 with Warp https://1.1.1.1/Cloudflare_WARP_Release-x64.msi
+:Spybot Anti Bacon https://www.safer-networking.org/products/spybot-anti-beacon/download/ 
+:CloudFlare 1.1.1.1 with Warp https://1.1.1.1/Cloudflare_WARP_Release-x64.msi
 
 11. HAPPY PLAYING! There's nothing more to do.
 
